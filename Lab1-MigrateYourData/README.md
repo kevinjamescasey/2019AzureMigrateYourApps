@@ -46,7 +46,7 @@ One thing to consider is that some resources have a limit to how many characters
 
    ![CreateNewResource](../images/CreateNewResource.png)
 
-3. Type 'SQL Server in the search box' - Press Enter
+3. Type 'SQL Server' in the search box - Press Enter
 
 4. Pick 'SQL Server 2017 on Windows Server 2016'
 
